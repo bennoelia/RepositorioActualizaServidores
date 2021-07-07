@@ -1,0 +1,3 @@
+RUTA LOG@D:\ActualizaServidores\LogGeneral.txt
+RUTA SERVIDORES@D:\ActualizaServidores\Servidores.txt
+RUTA PARA VERIFICAR SERVIDORES@\intranet
